@@ -89,6 +89,9 @@ hr {
   width: 100%;
   color: #000000;
 }
+#main-text{
+  margin-bottom: 25px;
+}
 
 /* footer {
     background-color: #333;
@@ -112,7 +115,7 @@ hr {
 }
 
 .footer-col {
-  width: 33%;
+  width: 25%;
   padding: 0 15px;
 }
 
@@ -128,9 +131,9 @@ hr {
 .footer-col h4::before {
   content: "";
   position: absolute;
-  left: 0;
+  left: 40%;
   bottom: -10px;
-  background-color: #e91e63;
+  background-color: #0000ff;
   height: 2px;
   box-sizing: border-box;
   width: 50px;
